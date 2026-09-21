@@ -1,0 +1,9 @@
+{
+  "name": "com.ddb.firebase.messaging",
+  "displayName": "ddb - Firebase Messaging",
+  "description": "Firebase Messaging",
+  "author": "datdb - Third Party SDKs",
+  "version": "13.10.0",
+  "dependencies": {
+  }
+}
